@@ -43,9 +43,7 @@ Currently learning advanced frontend technologies and improving my problem-solvi
   <a href="https://github.com/roymukta21">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="www.linkedin.com/in/roy-mukta
-
-">
+  <a href="www.linkedin.com/roy-mukta">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
