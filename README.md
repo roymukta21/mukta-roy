@@ -30,9 +30,12 @@ Currently learning advanced frontend technologies and improving my problem-solvi
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 </p>
 
+### 📚 Libraries & Frameworks
+<p> <img src="https://skillicons.dev/icons?i=redux,nextjs" /> </p>
+
 ### 🧰 Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vs" />
+  <img src="https://skillicons.dev/icons?i=git,github,vs,firebase,vercel" />
 </p>
 
 ---
@@ -43,7 +46,7 @@ Currently learning advanced frontend technologies and improving my problem-solvi
   <a href="https://github.com/roymukta21">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="https://www.linkedin.com/in/roy-mukta/">
+  <a href="www.linkedin.com/roy-mukta">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
@@ -52,13 +55,6 @@ Currently learning advanced frontend technologies and improving my problem-solvi
 ##  GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roymukta21&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=roymukta21&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roymukta21&layout=compact&theme=tokyonight" />
-</p>
