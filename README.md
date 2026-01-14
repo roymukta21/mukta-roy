@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/roymukta21/mukta-roy/main/Banner.png"/>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=3EC7F7&width=480&lines=Welcome+to+my+profile;💻Web+Developer;🚀+Building+Scalable+Web+Apps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=3EC7F7&width=480&lines=Welcome+to+my+profile;Web+Developer;+Building+Scalable+Web+Apps)](https://git.io/typing-svg)
 
 ## Mukta Roy
 ### Frontend Web Developer
